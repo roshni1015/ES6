@@ -1,7 +1,7 @@
 
 /*----------------------Array.from()--------------------*/
 
-/* const array = Array.from("123456789") 
+const array = Array.from("123456789") 
 console.log(array); 
 
 
@@ -14,7 +14,7 @@ console.log(Object.keys(num));
 
 const num1 = { 100: 'a', 2: 'b', 7: 'c' };
 console.log(Object.keys(num1)); // console: ['2', '7', '100']
- */
+
 
 /*-----------------Array.find() & Array findIndex()------------------*/
 
